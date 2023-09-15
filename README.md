@@ -23,7 +23,7 @@ remixIDE
 * To check the balance , press "Call" to obtain the latest balance 
 * These are all the steps followed in the contract.
 
-* ## AUTHORS
+## AUTHORS
 Suhana Akhtar
 
 ## License
