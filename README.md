@@ -13,15 +13,15 @@ These functions enable the contract owner to create new tokens (mint) and destro
 remixIDE 
 
 ## EXECUTING THE PROGRAM
-1. Compile the program.
-2.After compiling, deploy the contract to get the account address for further steps.
-3.The contract gets deployed successfully.
-4.Initially, the account balance is zero.
-5.To mint tokens, click on theMint button paste the account address enter the desired token quantity and press Transact.
-6. To check the balance, click on "Balances," paste the account address, and click "Call" to view the account balance.
-7.To burn tokens, click on "Burn," paste the account address, set the value to be burnt (e.g., 300), and click "Transact" to reduce tokens from the account.
-8.To check the balance again, press "Call" to obtain the latest balance (e.g., 800-300 = 500 tokens).
-9.These are all the steps followed in the contract.
+*1. Compile the program.
+*2.After compiling, deploy the contract to get the account address for further steps.
+*3.The contract gets deployed successfully.
+*4.Initially, the account balance is zero.
+*5.To mint tokens, click on theMint button paste the account address enter the desired token quantity and press Transact.
+*6. To check the balance, click on "Balances," paste the account address, and click "Call" to view the account balance.
+*7.To burn tokens, click on "Burn," paste the account address, set the value to be burnt (e.g., 300), and click "Transact" to reduce tokens from the account.
+*8.To check the balance again, press "Call" to obtain the latest balance (e.g., 800-300 = 500 tokens).
+*9.These are all the steps followed in the contract.
 
 * ## AUTHORS
 Suhana Akhtar
